@@ -15,4 +15,4 @@
 - get the AI answer
 - display AI answer on client front end
 
-Author: Salim Tlemcani
+Author: milas_melt
