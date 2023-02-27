@@ -19,3 +19,11 @@ TODO:
 - prompt a conversation after asking a question the the ai
 - store conversation on the go, live
 - ... ?
+
+COULD DO:
+- create AI to generate character for AI (e.g. name, profile pic, etc) consistently
+- create AI to generate prompts for AI ( or use some existing API )
+- allow user to import documents and explain to the AI what the document is so that AI can work with it
+- allow user to export files
+- allow AI to email stuff to user
+- ... ?
