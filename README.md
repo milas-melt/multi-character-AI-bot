@@ -27,4 +27,5 @@
 - allow user to import documents and explain to the AI what the document is so that AI can work with it
 - allow user to export files
 - allow AI to email stuff to user
+- improve responsiveness ( mobile format )
 - ... ?
