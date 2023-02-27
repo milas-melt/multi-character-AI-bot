@@ -18,4 +18,4 @@
 TODO:
 - prompt a conversation after asking a question the the ai
 - store conversation on the go, live
-... ?
+- ... ?
